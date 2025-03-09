@@ -1,4 +1,4 @@
-# Prodigy_7_task5
+
 # Packet Sniffer Tool
 
 This is a Python-based packet sniffer tool designed for educational purposes. It captures and analyzes network packets, displaying essential details such as source and destination IP addresses, protocols, and payload data.
@@ -21,7 +21,7 @@ This is a Python-based packet sniffer tool designed for educational purposes. It
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AKankit47/Prodigy_7_task5.git
+   git clone https://github.com/AKankit47/Packet_sniffer.git
    cd Prodigy_7_task5
    ```
 2. Install dependencies:
